@@ -2,3 +2,6 @@ This is file was added in the feature-2 branch by qutby-i.
 
 We need more changes in the feature-2 branch, therefore i added this
 two lines.
+
+Third change - another line
+You mus commit all your changes before you are able to publish this branch.
